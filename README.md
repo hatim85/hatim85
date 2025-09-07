@@ -26,11 +26,25 @@ I love experimenting with new ideas, hacking on side projects, and contributing 
 
 ---
 
-## 📬 Let’s Connect  
+## 📚 Currently Exploring  
 
-- ✉️ devconnect.hatim@gmail.com  
-- 🐦 [Twitter / X](https://x.com/Hatim5873293317)
-- 💼 [LinkedIn](http://www.linkedin.com/in/hatim-unwala-330245303)  
+- ⚙️ Enterprise Blockchain with **Hyperledger Fabric**  
+- 🔗 Advanced **cross-chain interoperability**  
+- 🤖 Merging **AI + Blockchain** concepts for decentralized intelligence  
+
+---
+
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hatim85&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hatim85&theme=tokyonight" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hatim85&theme=tokyonight" height="165"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hatim85&theme=tokyonight&utcOffset=8" height="165"/>
+</p>
 
 ---
 
